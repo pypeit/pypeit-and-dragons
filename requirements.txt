@@ -1,0 +1,22 @@
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+astropy
+xarray
+h5netcdf
+IPython
+tqdm
+pytest
+
+# Data reduction pipelines under comparison
+pypeit
+
+# Lint / format
+ruff
+
+# Special-source packages (not added above to keep `pip install -r` from
+# failing). Install separately:
+#   dragons  -- Gemini DRAGONS; install via conda from the gemini channel:
+#               conda install -c conda-forge -c http://astroconda.gemini.edu/public dragons
