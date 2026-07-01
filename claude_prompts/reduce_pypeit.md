@@ -23,6 +23,10 @@ Perform all of your work in the conda environment named `pypeit_dragons`
     - Create a new conda environement named `pypeit_dragons`
     - Install PypeIt with pip in the `pypeit_dragons` environment
     - Reduce the Gemini data in `/mnt/tank/Astronomy/PypeIt/DRAGONS/Raw` with PypeIt
+       - Include the suitable bad pixel mask provided in the Raw directory
+       - Use the appropriate BIAS frames
+       - Stack the individually reduced science spectra
+       - Flux calibrate the science data using the provided standard star and associated flat
     - Generate a Report file named `PypeIt_reduction.md` in `pypeit-and-dragons/Reports`.  Include:
        - The steps you took
        - How they went

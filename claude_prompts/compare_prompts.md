@@ -20,8 +20,14 @@ and generate a report comparing the two.  We will then execute that plan.
 ### Tasks
 
 1. Examine the existing prompt docs, Reports, and also the folders of reduction outputs for PypeIt and
-DRAGONS.  Our next goal is to quantitatively compare the two sets of outputs.  Give this
-some thought and then pose questions for me to answer.  Log your work.
+DRAGONS.  Our next goal is to quantitatively compare the two sets of outputs. Do the following:
+   - Compare the 1D stacked science spectra
+   - Compare the 2D stacked science spectra
+   - Examine the S/N for each output spectrum
+   - Compare the wavelength solutions
+   - Compare the response curves 
+   - Provide any other comparions you think are relevant
+   - Log your work
 
 ### Q&A
 
